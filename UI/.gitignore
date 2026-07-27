@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+backend_venv/
+dist/
+.vite/
+
+# Database files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Demo recordings (large video files)
+demo_recordings/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+pip-log.txt
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# TypeScript build info
+*.tsbuildinfo
+
+# InsightFace model cache
+.insightface/
