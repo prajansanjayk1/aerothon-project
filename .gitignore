@@ -1,0 +1,40 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Aa]ssets/AssetStoreTools*
+/[Cc]ache/
+/.vs/
+/.vscode/
+*.csproj.user
+*.sln.docstates
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.tmp
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.unitypackage
+*.apk
+*.aab
+*.app
+*.exe
+*.dll
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
