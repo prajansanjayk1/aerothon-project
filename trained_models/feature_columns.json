@@ -1,0 +1,14 @@
+[
+  "Altitude_m",
+  "Mach",
+  "Tamb_K",
+  "Pamb_Pa",
+  "RPM_rev_min",
+  "FuelFlow_kg_s",
+  "P2_Pa",
+  "T2_K",
+  "P3_Pa",
+  "T3_K",
+  "P4_Pa",
+  "T4_K"
+]

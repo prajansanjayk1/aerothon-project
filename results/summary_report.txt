@@ -1,0 +1,9 @@
+AEROTHON 2026 - Held-out Test Set Results
+==================================================
+
+  CompressorHealth   MAE=0.0587   R2=0.134
+  CombustorHealth    MAE=0.0216   R2=0.158
+  TurbineHealth      MAE=0.0365   R2=0.124
+  OverallHealth      MAE=0.0395   R2=0.162
+  Thrust_N           MAE=2182.9035   R2=0.971
+  TSFC_g_N_s         MAE=0.0008   R2=0.975
